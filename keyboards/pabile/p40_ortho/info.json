@@ -53,7 +53,7 @@
                 {"label":"Alt", "x":7, "y":3}, 
                 {"label":"Ctrl", "x":8, "y":3}, 
                 {"label":"ArrowLeft", "x":9, "y":3}, 
-                {"label":"ArrowDown", "x":10, "y":3}]
+                {"label":"ArrowDown", "x":10, "y":3}
                 {"label":"ArrowRight", "x":11, "y":3}]
         }
     }
